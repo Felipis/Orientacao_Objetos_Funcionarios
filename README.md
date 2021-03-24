@@ -1,0 +1,2 @@
+# Orientacao_Objetos_Funcionarios
+Problema: Criar uma classe de acordo com o diagrama em anexo(String Nome; double SalarioBruto; double Imposto; SalarioLiquido();Aumento Salarial()); Instanciar dois objetos um chamado Pedro e outro chamado Vagner  Utilizar o método SalarioLiquido e AumentaSalario para os dois objetos.  Imprima o SalarioLiquido e o AumentaSalario do Pedro é do Vagner.  No método AumentaSalario o usuário deve informar o valor que vai ser aumentado.  
